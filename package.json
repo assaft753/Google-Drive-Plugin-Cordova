@@ -1,0 +1,65 @@
+{
+  "_from": "cordova-plugin-jc-googledrive@1.1.0",
+  "_id": "cordova-plugin-jc-googledrive@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-KlRcWENaT2cAO1tNf7dDTpuOq1g=",
+  "_location": "/cordova-plugin-jc-googledrive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-jc-googledrive@1.1.0",
+    "name": "cordova-plugin-jc-googledrive",
+    "escapedName": "cordova-plugin-jc-googledrive",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-jc-googledrive/-/cordova-plugin-jc-googledrive-1.1.0.tgz",
+  "_shasum": "2a545c58435a4f67003b5b4d7fb7434e9b8eab58",
+  "_spec": "cordova-plugin-jc-googledrive@1.1.0",
+  "_where": "/Users/assaftayouri/Desktop/Projects/Task Managment/Tasks",
+  "author": {
+    "name": "JcDenton"
+  },
+  "bugs": {
+    "url": "https://github.com/JcDenton86/cordova-plugin-jc-googledrive/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-jc-googledrive",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova Google Drive Plugin",
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": {
+        "cordova-plugin-cocoapod-support": ">1.2.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/JcDenton86/cordova-plugin-jc-googledrive#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "google",
+    "drive"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-jc-googledrive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JcDenton86/cordova-plugin-jc-googledrive.git"
+  },
+  "version": "1.1.0"
+}
